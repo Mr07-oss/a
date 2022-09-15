@@ -1,0 +1,93 @@
+
+.container {
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+
+
+
+    
+
+
+
+
+.searchcontainer {
+    
+}
+
+.yt {
+    
+    border-radius:3px ;
+    background-color: transparent;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-bottom-color: red;
+    width: 150px;
+    height: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-family: monospace;
+    border-width: thin;
+    color: #35A9DB;
+}
+
+.btn-g {
+    background-color: green;
+    border: none;
+    border-radius: 3px;
+    color: white
+}
+
+.btn-yt {
+    background-color: red;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    
+}
+
+.yn {
+        border-radius:3px ;
+    background-color: transparent;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-bottom-color: yellow;
+    width: 150px;
+    height: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-family: monospace;
+    border-width: thin;
+    color: #35A9DB;
+}
+
+.font {
+    color: blueviolet;
+}
+
+.container-atas {
+    padding: 0;
+    text-align: center;
+   
+}
+
+body {
+ background: url("cupang.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.yn::-webkit-input-placeholder {
+    color: red;
+}
+
+.yt::-webkit-input-placeholder {
+    color: darkgoldenrod;
+}
